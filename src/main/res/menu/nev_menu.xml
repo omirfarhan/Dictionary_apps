@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/text"
+        android:title="Text"
+        android:icon="@drawable/text"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/speaker"
+        android:title="Speaker"
+        android:icon="@drawable/mic"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/camara"
+        android:title="Camara"
+        android:icon="@drawable/camara"
+        >
+
+    </item>
+
+</menu>
